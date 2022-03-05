@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "from userbot.legend"
+          find: "LEGENDXOP"
 
-          replace: "from LEGENDX"
+          replace: "XTEAMBOT"
 
       - name: Create Pull Request
 
